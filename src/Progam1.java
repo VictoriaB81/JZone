@@ -6,6 +6,7 @@ public class Progam1 {
 		System.out.println("Hello Pinky");
 		System.out.println("Heelo pinky1");
 		System.out.println("hello pinky2");
+		System.out.println("hello pinky3");
 	}
 
 }
